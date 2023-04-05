@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="OneState">
+        <meta name="author" content="OneState Community site">
+        <title>OneState</title>
+        <link rel="icon" type="image/x-icon" href="/assets/img/favicon.ico">
+      </head>
+      <body>
+        <p>
+
+1 Hello! I'm glad you passed the interview! Congrats! I'm your trainer David Dexter... nice to meet you!
+
+2 We call the floors.. floor 0.. floor 1.. floor 2.. F0, F1 and F2! Let's start from F0. Follow me please.
+
+3 Let's start your training with the rules and punishments. You have studied rules to join the faction.
+
+4 When you break the rule you will get 1 warning! With 2 warnings you will get 1 reprimand and with 3 reprimands you are automatically fred!
+
+5 The use of macros is important! They must always be used during arrest procedures! It's important that you make all macros within 2h hours... Otherwise you will take 1 reprimand!
+
+6 The fundamentals are there: .....
+
+Moje první Basic Makra... (basic macros)
+
+7 And then all the violations with the respective jail time!
+
+8 To arrest a person, you have to handcuff him! You can do this by clicking on the 3 points to your right and on the police badge.. And then you will find there 4 fuctions: "JAIL" (to send to jail).. "VIOLATIONS" (to give violations).. "HANDCUFF" (to handcuff player).. and "DOCUMENTS" (to check documents)! Now TRY HANDCUFF ME.
+
+9 Violations are divided into 3 categories! CRIMINAL ((20 MINUTES)) | CIVIL ((10 MINUTES)) | ADMINISTRATIVE ((5 MINUTES)).
+
+10 As you rank up.. You will unlock all of these! For now you only have the possibility to give the "Administrative".. If you have to give the others just do the calculations: ((CIVIL [10min] = 5x2)), ((CRIMINAL [20min] = 5x4)).
+
+11 Always remember to get evidence first to give the violations and to write the description!
+
+12 Follow me to floor 0 (f0) please.
+
+13 Here you can take up arms! For now you only have the taser available! You will unlock the others weapons as you rank up!
+
+14 Go here ((into the circle)) and take tazer. 
+
+15 Remember: First you have to issue warnings and then you can use force!!
+
+16 Deadly weapons can only be used in case of extreme danger! When your or other people life is in danger!!!
+
+17 Follow me to floor 2 (f2) please.
+
+18 Now use (( "/flobby hello" in chat ))! This is police radio. You can use it for communication with other officers..!
+
+19 You won't longer be able to do civil jobs! If you want to do civil jobs ask the leader or deputy to go on vacation! understand?
+
+20 Here you can get rewards for patrolling! try to make 2 and then tell me (To the police radio) when you are done.
+
+
+21 It's VERY IMPORTANT that you respect the RP.. If you dont want to have reprimands!! When you hit a people at 200km/h.. It's very important that you stop and you make help! And remember to respect the speed limits! or..other example.. Dont jump off the mountains with the car!
+
+22 Tomorrow you will have a meeting with leaders and deputies! You WON'T BE ABLE to arrest anyone util this meeting!! And ALWAYS KEEP DOORS CLOSED!! Do you understand?
+
+23 Now tell me please your full ((Discord)) username (for example: VIDA#5292), I will send you this 1 more time if you want read it again. Also I send you first things to do and some useful gadgets..
+
+24 Are there any questions?
+
+25 Now you can go do 2 patrols. When you're done informate me by police radio. Good luck officer!
+
+
+26 Follow me to the first floor (f1) please.
+
+27 Here is jail, here you can put criminals into the cell. Don't stay here long. It's for your own good.
+
+28 If you have any questions later, ((I'm always active on Discord. You can write me. I help you. (My Discord is: VIDA#5292).))
+
+29 So that's all from me for now. One more congratulations 🎊 and you have competed training.
+
+30 Now tell me what you think about your training? Can you do your job correct? And rate me from 0 to 10 please.
+
+| Thank you officer(s)! Now you can go, I recommend you do patrols for fast ranking up. Welcome in police officer life 🥳!</p>
+      </body>
+</html>
